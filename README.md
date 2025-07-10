@@ -37,41 +37,24 @@
 
 ---
 
-## 📌 Featured Projects
+## 🔍 What I'm Exploring Now
 
-<table>
-  <tr>
-    <td width="50%">
-      <strong>🧠 AI/100Day Learning Platform</strong><br/>
-      <a href="https://github.com/timektt/Port_to_Me">🔗 Port_to_Me</a><br/>
-      <em>Interactive learning system with AI-powered content, quizzes, and progress dashboard.</em><br/>
-      <sub>Stack: React · Firebase · Vercel</sub>
-    </td>
-    <td width="50%">
-      <strong>🧬 MBTI Social AI</strong><br/>
-      <a href="https://github.com/timektt/MBTI_PROJECT">🔗 MBTI_PROJECT</a><br/>
-      <em>Personality-driven social platform that generates unique MBTI Cards using AI-powered analysis. Inspired by the structure of Facebook, but personalized by cognitive type.</em><br/>
-      <sub>Stack: TypeScript · Next.js · PostgreSQL · Prisma · Docker</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>🤖 TeamSync</strong><br/>
-      <a href="https://github.com/timektt/TeamSync">🔗 TeamSync</a><br/>
-      <em>Modern team collaboration platform with real-time check-ins, role-based teams, avatar uploads via Cloudinary, and Supabase-based live updates.</em><br/>
-      <sub>Stack: React · TypeScript · Supabase · Cloudinary · TailwindCSS</sub>
-    </td>
-    <td width="50%">
-      <strong>🧪 More Projects</strong><br/>
-      <a href="https://github.com/timektt?tab=repositories">🔍 Browse All</a><br/>
-      <em>Explore experiments, developer tools, internal systems, and future product ideas.</em><br/>
-      <sub>Continuously building & iterating</sub>
-    </td>
-  </tr>
-</table>
-
+- Building intelligent AI agents that can run unsupervised workflows
+- Crafting minimal UIs that reflect user identity and decision paths
+- Developing lifelong learning systems that adapt to user behavior
+- Studying economic + psychological impact of AI disruption
 
 ---
+
+## 🌱 Philosophy & Mindset
+
+> “Systems should serve humans — not overload them.  
+> True innovation lies in automating complexity while preserving meaning.”  
+
+I value:
+- 🔹 Clarity over complexity
+- 🔹 Focus over noise
+- 🔹 Depth over surface
 
 ## 💪 Core Strengths
 
