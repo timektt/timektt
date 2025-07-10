@@ -5,8 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=time-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/time-dev?style=flat-square&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=timektt&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/timektt?style=flat-square&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/timektt?style=flat-square&color=yellow&labelColor=black" alt="Stars" />
 </div>
 
 ---
@@ -97,7 +98,7 @@ const timedev = {
       <td width="50%">
         <h3 align="center">💡 More Projects</h3>
         <div align="center">
-          <a href="https://github.com/time-dev?tab=repositories" target="_blank">
+          <a href="https://github.com/timektt?tab=repositories" target="_blank">
             <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <p>Explore more innovative projects and experiments</p>
@@ -112,31 +113,82 @@ const timedev = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=time-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=time-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timektt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timektt&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=time-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timektt&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=time-dev&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timektt&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Philosophy
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🤖+Building+AI+systems+that+think%2C+adapt%2C+and+learn;📚+Creating+self-evolving+educational+platforms;🔧+Developing+automation+tools+for+real-world+problems" alt="Current Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&lines=🤖+Building+AI+systems+that+think%2C+adapt%2C+and+learn;📚+Creating+self-evolving+educational+platforms;🔧+Developing+automation+tools+for+real-world+problems;💡+Deep+Work+%3E+Shallow+Grind" alt="Current Focus" />
 </div>
 
-> **"Building AI systems that think, adapt, and learn by design—not chance."**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎯_Current_Project-AI%2F100Day_Learning_Platform-blue?style=for-the-badge&labelColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀_Focus_Area-AI_Automation_Systems-green?style=for-the-badge&labelColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📈_Learning-Systems_Thinking-purple?style=for-the-badge&labelColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎨_Philosophy-Deep_Work-orange?style=for-the-badge&labelColor=black" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌟 What I'm Building
+
+<div align="center">
+
+### 🤖 AI-Powered Systems
+```
+Building intelligent systems that learn, adapt, and evolve
+↳ Self-improving educational platforms
+↳ Automated content generation
+↳ Smart decision-making tools
+```
+
+### 🛠️ Real-World Applications
+```
+Creating solutions for actual problems
+↳ TikTok Live automation
+↳ MBTI personality analysis
+↳ Learning path optimization
+```
+
+### 📚 Knowledge Sharing
+```
+Documenting the journey of building AI systems
+↳ Blog: superbear.ai
+↳ Open-source projects
+↳ Community contributions
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
   <a href="https://www.linkedin.com/in/time-dev/">
@@ -153,12 +205,26 @@ const timedev = {
   </a>
 </div>
 
+<div align="center">
+  <h3>🌍 Open to collaborate on:</h3>
+  <img src="https://img.shields.io/badge/AI%20Projects-blue?style=flat-square&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-green?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Innovation-purple?style=flat-square&logo=lightbulb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-orange?style=flat-square&logo=book&logoColor=white" />
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=gray&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+🚀" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=gray&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together+🚀;Always+learning%2C+always+building+💪" alt="Thanks Message" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+  
+  **"Building AI systems that think, adapt, and learn by design—not chance."**
+  
+  ---
+  
+  ![Snake animation](https://github.com/timektt/timektt/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
