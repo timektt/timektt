@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 <table>
   <tr>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🔬 Current Focus
+##  Current Focus
 
 - 🧠 Designing autonomous AI agents for daily productivity  
 - 🎯 Minimal, identity-driven UIs for expressive digital experience  
@@ -48,12 +48,12 @@
 
 ---
 
-## 🌿 Philosophy
+##  Philosophy
 
 > “Systems should serve humans — not overwhelm them.  
 > Innovation means automating complexity, but never losing clarity.”
 
-### 💡 I value:
+###  I value:
 
 -  Clarity over complexity  
 -  Focus over noise  
@@ -61,7 +61,7 @@
 
 ---
 
-## 💪 Core Strengths
+##  Core Strengths
 
 <table>
   <tr><td>✅</td><td>Building real systems from scratch</td></tr>
@@ -73,7 +73,7 @@
 
 ---
 
-## 🌌 Vision
+##  Vision
 
 > **To craft systems that learn, adapt, and evolve —  
 > helping humans unlock their full potential through AI.**
