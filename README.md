@@ -20,7 +20,7 @@
 ## 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,postgres,firebase,nodejs,vercel,git,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,postgres,firebase,supabase,nodejs,vercel,git,docker" />
 </p>
 
 ---
