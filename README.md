@@ -51,30 +51,32 @@
     <td width="50%">
       <strong>🧠 AI/100Day Learning Platform</strong><br/>
       <a href="https://github.com/timektt/Port_to_Me">🔗 Port_to_Me</a><br/>
-      <em>Dynamic learning, quizzes, dashboard system</em><br/>
-      <sub>React · Firebase · Vercel</sub>
+      <em>Interactive learning system with AI-powered content, quizzes, and progress dashboard.</em><br/>
+      <sub>Stack: React · Firebase · Vercel</sub>
     </td>
     <td width="50%">
       <strong>🧬 MBTI Social AI</strong><br/>
       <a href="https://github.com/timektt/MBTI_PROJECT">🔗 MBTI_PROJECT</a><br/>
-      <em>Identity card + social interaction based on MBTI</em><br/>
-      <sub>Next.js · PostgreSQL · Prisma</sub>
+      <em>Personality-driven social platform that generates unique MBTI Cards using AI-powered analysis. Inspired by the structure of Facebook, but personalized by cognitive type.</em><br/>
+      <sub>Stack: TypeScript · Next.js · PostgreSQL · Prisma · Docker</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <strong>🤖 TeamSync Auto-Reply</strong><br/>
+      <strong>🤖 TeamSync</strong><br/>
       <a href="https://github.com/timektt/TeamSync">🔗 TeamSync</a><br/>
-      <em>Auto-reply for TikTok Live using Puppeteer</em><br/>
-      <sub>Puppeteer · Supabase · Node.js</sub>
+      <em>Modern team collaboration platform with real-time check-ins, role-based teams, avatar uploads via Cloudinary, and Supabase-based live updates.</em><br/>
+      <sub>Stack: React · TypeScript · Supabase · Cloudinary · TailwindCSS</sub>
     </td>
     <td width="50%">
       <strong>🧪 More Projects</strong><br/>
       <a href="https://github.com/timektt?tab=repositories">🔍 Browse All</a><br/>
-      <em>Experiments, tools, and public builds</em>
+      <em>Explore experiments, developer tools, internal systems, and future product ideas.</em><br/>
+      <sub>Continuously building & iterating</sub>
     </td>
   </tr>
 </table>
+
 
 ---
 
