@@ -31,7 +31,7 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,nodejs,prisma,postgres,firebase,docker,vercel" />
@@ -55,9 +55,9 @@
 
 ### 💡 I value:
 
-- 🧭 Clarity over complexity  
-- 🧘 Focus over noise  
-- 🔬 Depth over surface  
+-  Clarity over complexity  
+-  Focus over noise  
+-  Depth over surface  
 
 ---
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61574677352368">
@@ -93,11 +93,11 @@
 
 ---
 
-## 🚀 Open to Collaborate On
+##  Open to Collaborate On
 
-- 🤖 AI tools, autonomous workflows, or learning platforms  
-- 🔧 Feedback from engineers & cognitive designers  
-- 🧩 Systems that blend technology with personal growth
+-  AI tools, autonomous workflows, or learning platforms  
+-  Feedback from engineers & cognitive designers  
+-  Systems that blend technology with personal growth
 
 <p align="center">
   <em>Let’s build the future — one intentional system at a time.</em>
