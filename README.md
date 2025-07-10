@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://link-to-your-image.gif" width="300" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." alt="Banner" width="100%" />
 </p>
+
 
 
 <h1 align="center"> Time / Superbear </h1>
