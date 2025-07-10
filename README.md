@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...](https://tenor.com/g8moyq0HiIB.gif)" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dxtnq9fxw/image/upload/v1752171612/Los_Angeles_Art_GIF_by_Kaleko_prbjmo.gif" width="100%" />
 </p>
+
 
 
 
