@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Time</h1>
 <h3 align="center">A Passionate Fullstack Developer & AI Explorer</h3>
 
 <p align="center">
@@ -30,9 +29,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [AI/100Day](https://github.com/time-dev/ai-100day) | AI learning platform with dynamic course content & auto quizzes | Next.js, Prisma, Firebase |
-| [Tiktok Live AI Bot](https://github.com/time-dev/tiktok-chat-bot) | Auto-reply system for TikTok Live using Puppeteer + OpenAI | Puppeteer, Node.js, Webhook |
-| [Modern Portfolio](https://time-dev.vercel.app) | Personal portfolio with blog, projects, and MBTI card system | Next.js, TailwindCSS, PostgreSQL |
+| [AI/100Day](https://github.com/timektt/Port_to_Me) | AI learning platform with dynamic course content & auto quizzes | React.js, Firebase , Vercel|
+| [TeamSync](https://github.com/timektt/TeamSync) | Auto-reply system for TikTok Live using Puppeteer + OpenAI |Next.js , TailwindCSS Supabase , Netify |
+| [Modern MBTI Ai Social](https://github.com/timektt/MBTI_PROJECT) | Personal  with blog, projects, and MBTI card system | Next.js, TailwindCSS, PostgreSQL , Prisma , Docker|
 
 ---
 
