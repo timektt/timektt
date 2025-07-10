@@ -1,13 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Time</h1>
 <h3 align="center">Fullstack Developer · AI Builder · System Thinker</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Enabled-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/timektt?style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/stars/timektt?style=flat-square&color=yellow" />
-</p>
-
----
 
 ## 💡 About Me
 
@@ -118,7 +111,6 @@
 ## 🚀 Currently Looking For
 
 - Collaborators in AI tools / open source
-- Beta users for MBTI Social AI
 - Feedback from real developers & system designers
 
 <p align="center">
