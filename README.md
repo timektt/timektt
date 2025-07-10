@@ -99,11 +99,14 @@
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/time-dev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:time@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://time-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://superbear.ai"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61574677352368">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Bearpola-vo9jh" title="Coming Soon">
+    <img src="https://img.shields.io/badge/YouTube-Coming_Soon-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
