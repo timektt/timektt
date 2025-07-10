@@ -8,23 +8,23 @@
 
 <table>
   <tr>
-    <td><strong>🎯 Role</strong></td>
+    <td><strong> Role</strong></td>
     <td>Fullstack Developer & AI Platform Builder</td>
   </tr>
   <tr>
-    <td><strong>📍 Location</strong></td>
+    <td><strong> Location</strong></td>
     <td>Bangkok, Thailand</td>
   </tr>
   <tr>
-    <td><strong>🚧 Current Project</strong></td>
+    <td><strong> Current Project</strong></td>
     <td><a href="https://github.com/timektt/Port_to_Me">AI/100Day Learning Platform</a></td>
   </tr>
   <tr>
-    <td><strong>🔍 Specialties</strong></td>
+    <td><strong> Specialties</strong></td>
     <td>AI Automation · System Architecture · Prompt Engineering</td>
   </tr>
   <tr>
-    <td><strong>🧘 Core Philosophy</strong></td>
+    <td><strong> Core Philosophy</strong></td>
     <td>Deep Work > Shallow Grind</td>
   </tr>
 </table>
@@ -41,10 +41,10 @@
 
 ##  Current Focus
 
-- 🧠 Designing autonomous AI agents for daily productivity  
-- 🎯 Minimal, identity-driven UIs for expressive digital experience  
-- 📚 Systems that adapt to user behavior over time  
-- 🧩 Researching the impact of AI on cognition, economy, and ethics  
+-  Designing autonomous AI agents for daily productivity  
+-  Minimal, identity-driven UIs for expressive digital experience  
+-  Systems that adapt to user behavior over time  
+-  Researching the impact of AI on cognition, economy, and ethics  
 
 ---
 
