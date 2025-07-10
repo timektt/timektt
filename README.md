@@ -82,11 +82,14 @@
 
 ## 💪 Core Strengths
 
-- ✅ Building real systems from scratch
-- ✅ Creating scalable AI workflows
-- ✅ Full ownership: Frontend, Backend, Database
-- ✅ Strong learning ability in complex environments
-- ✅ Focused, practical, and minimalist mindset
+<table>
+  <tr><td>✅</td><td>Building real systems from scratch</td></tr>
+  <tr><td>✅</td><td>Creating scalable AI workflows</td></tr>
+  <tr><td>✅</td><td>Full ownership: Frontend, Backend, Database</td></tr>
+  <tr><td>✅</td><td>Strong learning ability in complex environments</td></tr>
+  <tr><td>✅</td><td>Focused, practical, and minimalist mindset</td></tr>
+</table>
+
 
 ---
 
@@ -110,8 +113,15 @@
 
 ---
 
-## 🧠 Final Note
+---
+
+## 🚀 Currently Looking For
+
+- Collaborators in AI tools / open source
+- Beta users for MBTI Social AI
+- Feedback from real developers & system designers
 
 <p align="center">
-  <strong>“Build with clarity. Think with depth. Deliver with meaning.”</strong>
+  <em>Let’s connect — I’m open to ideas, feedback, and meaningful collaboration.</em>
 </p>
+
