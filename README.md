@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td><strong>⟁ Role</strong></td>
-    <td>Fullstack Developer & AI Platform Builder</td>
+    <td>Fullstack Developer</td>
   </tr>
   <tr>
     <td><strong>⟁ Location</strong></td>
@@ -66,19 +66,7 @@
 ⧉ Focus over noise  
 ⧉ Depth over surface
 
----
 
-## ▍ Core Strengths
-
-<table>
-  <tr><td>⟡</td><td>Building real systems from scratch</td></tr>
-  <tr><td>⟡</td><td>Creating scalable AI workflows</td></tr>
-  <tr><td>⟡</td><td>Full ownership: Frontend, Backend, Database</td></tr>
-  <tr><td>⟡</td><td>Strong learning ability in complex environments</td></tr>
-  <tr><td>⟡</td><td>Focused, practical, and minimalist mindset</td></tr>
-</table>
-
----
 
 ## ▍ Vision
 
@@ -100,12 +88,3 @@
 
 ---
 
-## ▍ Open to Collaborate On
-
-➤ AI tools, autonomous workflows, or learning platforms  
-➤ Feedback from engineers & cognitive designers  
-➤ Systems that blend technology with personal growth
-
-<p align="center">
-  <em>Let’s build the future — one intentional system at a time.</em>
-</p>
