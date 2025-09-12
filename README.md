@@ -24,10 +24,6 @@
     <td>Bangkok, Thailand</td>
   </tr>
   <tr>
-    <td><strong>⟁ Current Project</strong></td>
-    <td><a href="https://github.com/timektt/Port_to_Me">AI/100Day Learning Platform</a></td>
-  </tr>
-  <tr>
     <td><strong>⟁ Specialties</strong></td>
     <td>AI Automation ▍ System Architecture ▍ Prompt Engineering</td>
   </tr>
