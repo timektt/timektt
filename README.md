@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center"> Time / Superbear </h1>
+<h1 align="center"> Time </h1>
 <h3 align="center">Fullstack Developer AI ▍  Cognitive Tech Explorer</h3>
 <p align="center"><em>Building AI-native systems that scale with intention, depth, and clarity.</em></p>
 
