@@ -7,33 +7,12 @@
 
 
 <h1 align="center"> Time </h1>
-<h3 align="center">Fullstack Developer AI ▍  Cognitive Tech Explorer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <p align="center"><em>Building AI-native systems that scale with intention, depth, and clarity.</em></p>
 
 ---
 
-## ▍ About Me
 
-<table>
-  <tr>
-    <td><strong>⟁ Role</strong></td>
-    <td>Fullstack Developer</td>
-  </tr>
-  <tr>
-    <td><strong>⟁ Location</strong></td>
-    <td>Bangkok, Thailand</td>
-  </tr>
-  <tr>
-    <td><strong>⟁ Specialties</strong></td>
-    <td>AI Automation ▍ System Architecture ▍ Prompt Engineering</td>
-  </tr>
-  <tr>
-    <td><strong>⟁ Core Philosophy</strong></td>
-    <td>Deep Work ＞ Shallow Grind</td>
-  </tr>
-</table>
-
----
 
 ## ▍ Tech Stack
 
@@ -57,17 +36,6 @@
 > ❚ “Systems should serve humans — not overwhelm them.  
 > ❚ Innovation means automating complexity, but never losing clarity.”
 
-**Values**  
-⧉ Clarity over complexity  
-⧉ Focus over noise  
-⧉ Depth over surface
-
-
-
-## ▍ Vision
-
-> **To craft systems that learn, adapt, and evolve —  
-> helping humans unlock their full potential through AI.**
 
 ---
 
